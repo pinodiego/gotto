@@ -1,0 +1,47 @@
+
+// Importo los estilos de SASS.
+@import "fuentes";
+@import "general";
+@import "navbar";
+@import "footer";
+
+// Body y cuerpo general.
+
+h5 {
+    padding: 30px 0px 0px 0px;
+    margin-right: 20px;
+    text-align: left;
+    color: #fb8500;
+    font-weight: 700;
+}
+
+p {
+    color: black;
+    font-style: italic;
+    text-align: right;
+    width: auto;
+    height:auto;
+    margin: 10px 0px 0px 10px;
+    padding-bottom: 10px;
+
+}
+
+section img {
+    position: relative;
+    top: 10px;
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+    float: left;
+    
+}
+
+/* Para dar sombra con Bootstrap
+ shadow p-4 mb-4 bg-white
+*/
+h1{
+    color: black;
+    padding: 5px;
+    display: inline-block;
+    
+}

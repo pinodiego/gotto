@@ -1,0 +1,30 @@
+* {
+    padding: 0;    
+    margin: 0;
+}
+
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 100%;
+    
+}
+
+a:link, a:visited {
+
+    color: black;
+    border-radius: 3px;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+a:active {
+    background-color: blueviolet;
+  }
+
+a:hover {
+    background-color: aliceblue;
+    
+  }
